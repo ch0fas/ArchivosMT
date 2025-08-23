@@ -108,11 +108,13 @@
     bye
 
     **PLEASE GO ON**
+
 </code>
 
-From what I gathered, it seems that ELIZA has trouble remembering personal data like my age. I also did another test in which I told it my name, and ELIZA directly told me that it wasn't interested in knowing my name, straight up telling me: `I AM NOT INTERESTED IN NAMES`. 
+From what I gathered, it seems that ELIZA has trouble remembering personal data like my age. I also did another test in which I told it my name, and ELIZA directly told me that it wasn't interested in knowing my name, straight up telling me: <code>I AM NOT INTERESTED IN NAMES</code>. 
 
-Something that I did find interesting is that it really wants you to keep talking to it. It told me `PLEASE GO ON` when I said "bye", and it also said it when I used the word "quit". 
+Something that I did find interesting is that it really wants you to keep talking to it. It told me <code>PLEASE GO ON</code> when I said "bye", and it also said it when I used the word "quit". 
+
 
 In this example, a keyword that definitely fired was "no". After using it only once it accused me of having a negative tone, something I couldn't shake off even after strictly denying it. A reassembly rule I believe it used was it telling me at the very beginning if I came to it because I am 20 years old.
 
